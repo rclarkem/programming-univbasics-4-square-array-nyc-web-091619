@@ -3,7 +3,7 @@ def square_array(array)
   while i < array.length do
     arr[i] = Math.sqrt(array[i])
     i += 1
-    
+
   end
   array
 end
